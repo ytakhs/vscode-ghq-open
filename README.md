@@ -1,6 +1,6 @@
 # vscode-ghq-open README
 
-VSCode extension for open project which selected path from output of `ghq list`.
+VSCode extension for opening project which selected path from output of `ghq list`.
 
 ## Features
 
