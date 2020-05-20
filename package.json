@@ -2,7 +2,7 @@
 	"name": "vscode-ghq-open",
 	"displayName": "vscode-ghq-open",
 	"description": "",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "jit-y",
 	"repository": {
 		"type": "git",
